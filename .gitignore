@@ -2,3 +2,5 @@
 *.exe
 ./synkkuapi
 synkkuapi
+main
+./main
