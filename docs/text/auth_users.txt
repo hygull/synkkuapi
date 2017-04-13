@@ -1,0 +1,23 @@
+*********** auth_users ***************
+
+id                      :	not null (PK)
+email					:	not null	
+uname					:	not null
+fname					:	not null
+lname					:	default blank ('') 
+dob						:	default  (date)
+doj						:	not null (date)
+community_id			:   not null 
+p_pic					:	default (text)
+p_video					:   default (text)
+stoken 					:	not null
+stoken_updated_on		:   not null 
+created_on				:   not null
+updated_on 				:	not null
+deleted_on 				: 	default
+details_updated_on		: 	not null
+is_active				: 	not null
+is_superuser			:	not null
+
+default  (date)		: '1900-01-01'
+default (datetime)  : '1900-01-01 12:00:00' 

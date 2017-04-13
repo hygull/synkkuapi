@@ -1,0 +1,16 @@
+ un, p_pic, cmtyid, ltype, atype, 
+
+ //after for r.Next()
+ 		var ppic, pvid string
+		var cmtid, act int
+
+
+id, 
+email,
+user_name,
+fname,
+lname,
+dob,
+date_of_join,
+stoken,
+stoken_created_on

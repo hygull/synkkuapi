@@ -1,0 +1,37 @@
+
+/**************** 1st combination ****************/
+
+//Database host eg 127.0.0.1 or localhost
+var DBHost = "127.0.0.1"
+
+//Port number for Database server, eg. for Mysql 3306, for PostgreSQl 5432/5433
+var DBPort = "5433"
+
+//The name of database
+var DBName = "college" 	/*	"synkku"	*/
+
+//The username for Database
+var DBUserName = "postgres" /*	"rishikesh"	*/
+
+//The password of your database
+var DBPassword = "admin@321" /*	"rishikesh"	*/
+
+
+/**************** 2nd combination ****************/
+
+
+//Database host eg 127.0.0.1 or localhost
+var DBHost = "127.0.0.1"
+
+//Port number for Database server, eg. for Mysql 3306, for PostgreSQl 5432/5433
+var DBPort = "5939"
+
+//The name of database
+var DBName ="synkku" /*	"college" */
+
+//The username for Database
+var DBUserName = "rishikesh"  /* "postgres" */
+
+//The password of your database
+var DBPassword = "rishikesh"	/* "admin@321" /*	
+

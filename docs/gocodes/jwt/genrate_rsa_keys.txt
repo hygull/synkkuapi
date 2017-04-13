@@ -1,0 +1,3 @@
+openssl genrsa -out rsa_key.rsa 1024
+
+openssl rsa -in rsa_key.rsa -pubout > rsa_key.rsa.pub
